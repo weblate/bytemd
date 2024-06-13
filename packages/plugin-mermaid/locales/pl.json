@@ -4,8 +4,10 @@
   "flowchart": "Schemat blokowy",
   "gantt": "Wykres Gantta",
   "mermaid": "Diagramy syren",
+  "mindmap": "Mapy umysłu",
   "pie": "Wykres kołowy",
   "sequence": "Diagram interakcji",
   "state": "Diagram stanu",
+  "timeline": "Oś czasu",
   "uj": "Diagram podróży użytkownika"
 }
